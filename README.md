@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**harshit-kumar16/harshit-kumar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Harshit Kumar!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram
+- Currently learning Python, Linux, Git and GitHub
+- Interested in Full-Stack Development and Software Development
+
+## Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python (Beginner), Bash |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, REST APIs, Markdown |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/harshit-kumar16/cse103-lab-LAB3)
+
+  Git workflows, API interaction, and Markdown documentation.
+
+## Currently Working On
+
+- Semester 1 lab projects
+- Improving programming and problem-solving skills
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn profile URL here
+- Email: Add your college email here
