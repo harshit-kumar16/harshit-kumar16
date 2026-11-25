@@ -28,5 +28,5 @@
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL here
-- Email: Add your college email here
+- LinkedIn: [Add your LinkedIn profile URL here](https://www.linkedin.com/in/harshit-kumar-20ba61410/)
+- Email: 2601010099@krmu.edu.in
